@@ -2,13 +2,7 @@
 #                                                     __Crime Classification Model using Pyspark__
 
 
-```python
-```
 
-
-
-
-![png](output_1_0.png)
 
 
 
