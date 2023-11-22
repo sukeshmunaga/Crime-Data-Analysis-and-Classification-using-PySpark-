@@ -3,8 +3,6 @@
 
 
 ```python
-from IPython.display import Image
-Image('spark_ml.png')
 ```
 
 
